@@ -350,7 +350,7 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-.europeMap {
+.europe-map {
     background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_Europe_alliances_1914-en.svg/800px-Map_Europe_alliances_1914-en.svg.png)
     no-repeat;
     background-size: cover;
@@ -642,7 +642,7 @@ section h3.section-subheading {
 .core-obj img {
     margin: 0 auto;
     border: 7px solid #fff;
-    width: 80%; 
+    width: 80%;
 }
 
 .core-obj h4 {
