@@ -354,11 +354,17 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-.europe-map {
-    background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_Europe_alliances_1914-en.svg/800px-Map_Europe_alliances_1914-en.svg.png)
-    no-repeat;
-    background-size: cover;
-    background-position: center;
+.celebrity-map {
+    position:relative;
+    /*background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_Europe_alliances_1914-en.svg/800px-Map_Europe_alliances_1914-en.svg.png)*/
+    /*no-repeat;*/
+    /*background-size: cover;*/
+    /*background-position: center;*/
+}
+
+div.celebrity-item-1 {
+    left:10%;
+    top:20%;
 }
 
 #celebrity .celebrity-item {
