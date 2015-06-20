@@ -361,6 +361,9 @@ section h3.section-subheading {
     /*background-size: cover;*/
     /*background-position: center;*/
 }
+.europe-map img {
+    width:100%;
+}
 
 div.celebrity-item-1 {
     left:10%;
