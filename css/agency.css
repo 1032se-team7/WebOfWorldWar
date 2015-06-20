@@ -368,6 +368,7 @@ div.celebrity-item-1 {
 }
 
 #celebrity .celebrity-item {
+    position:absolute;
     right: 0;
     margin: 0 0 15px;
 }
