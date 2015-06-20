@@ -22,6 +22,8 @@ var cbpAnimatedHeader = (function() {
 				setTimeout( scrollPage, 250 );
 			}
 		}, false );
+		//written by Aaron Tsai
+		classie.add( header, 'navbar-shrink' );
 	}
 
 	function scrollPage() {
@@ -29,9 +31,10 @@ var cbpAnimatedHeader = (function() {
 		if ( sy >= changeHeaderOn ) {
 			classie.add( header, 'navbar-shrink' );
 		}
-		/*else {
-			classie.remove( header, 'navbar-shrink' );
-		}*/
+		else {
+			//written by Aaron Tsai
+			//classie.remove( header, 'navbar-shrink' );
+		}
 		didScroll = false;
 	}
 
