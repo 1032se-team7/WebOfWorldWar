@@ -492,9 +492,9 @@ div.celebrity-item-9 {
     font-style: italic;
 }
 
-#celebrity * {
-    z-index: 2;
-}
+/*#celebrity * {*/
+/*    z-index: 2;*/
+/*}*/
 
 @media(min-width:767px) {
     #celebrity .celebrity-item {
