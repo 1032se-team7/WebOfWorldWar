@@ -414,7 +414,10 @@ div.celebrity-item-9 {
     top:20%;
 }
 
-
+div.celebrity-item-10 {
+    left:45%;
+    top:50%;
+}
 #celebrity .celebrity-item {
     position:absolute;
     right: 0;
