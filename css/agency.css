@@ -496,6 +496,10 @@ div.celebrity-item-9 {
 /*    z-index: 2;*/
 /*}*/
 
+dl.dl-horizontal {
+    text-align: left;
+}
+
 @media(min-width:767px) {
     #celebrity .celebrity-item {
         margin: 0 0 30px;
