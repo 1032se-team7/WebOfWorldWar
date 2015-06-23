@@ -739,7 +739,8 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#home {
+section#home,
+section#celebrity{
     background-image: url(http://i.imgur.com/au0vr1Y.jpg);
     background-position: center;
     background-repeat: no-repeat;
