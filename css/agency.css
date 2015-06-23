@@ -875,6 +875,10 @@ ul.social-buttons li a:active {
     font-size: 3em;
 }
 
+.brief-intro {
+    text-align: left;
+}
+
 /*.portfolio-modal .modal-content p {*/
 /*    margin-bottom: 30px;*/
 /*}*/
