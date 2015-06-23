@@ -468,8 +468,9 @@ div.celebrity-item-5 {
     }
 }
 
-.timeline-sidetoolbar, .btn-group {
+.timeline-sidetoolbar {
   position: fixed;
+  margin-left: 80%;
 }
 
 .timeline {
