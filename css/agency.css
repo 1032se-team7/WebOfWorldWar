@@ -370,53 +370,53 @@ div.celebrity-item {
 }
 
 div.celebrity-item-1 {
-    left:2%;
-    top:20%;
+    left:10%;
+    top:15%;
 }
 
 div.celebrity-item-2 {
-    left:15%;
+    left:30%;
     top:3.5%;
 }
 
 div.celebrity-item-3 {
-    left:65%;
-    top:20%;
+    left:76%;
+    top:15%;
 }
 
 div.celebrity-item-4 {
-    left:22%;
-    top:45%;
+    left:41%;
+    top:53%;
 }
 
 div.celebrity-item-5 {
-    left:35%;
+    left:49%;
     top:25%;
 }
 
 div.celebrity-item-6 {
-    left:24%;
+    left:39%;
     top:10%;
 }
 
 div.celebrity-item-7 {
-    left:75%;
-    top:20%;
+    left:85%;
+    top:15%;
 }
 
 div.celebrity-item-8 {
-    left:44%;
+    left:58%;
     top:25%;
 }
 
 div.celebrity-item-9 {
-    left:15%;
+    left:30%;
     top:20%;
 }
 
 div.celebrity-item-10 {
-    left:45%;
-    top:50%;
+    left:65%;
+    top:45%;
 }
 #celebrity .celebrity-item {
     position:absolute;
