@@ -458,12 +458,18 @@ div.celebrity-item-10 {
 }
 
 /*updated by pan*/
-div.core-obj a img:hover {
-    background: rgba(254,209,54,.9);
-    -webkit-transition: all ease 1s;
-    -moz-transition: all ease 1s;
-    transition: all ease 1s;
+div.core-obj a img {
+    opacity: 0.8;
 }
+
+div.core-obj a img:hover {
+    opacity: 1;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    transition: all ease 0.5s;    
+}
+
 
 #celebrity .celebrity-item .celebrity-link .celebrity-hover .celebrity-hover-content i {
     margin-top: -12px;
