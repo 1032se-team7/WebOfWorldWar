@@ -939,6 +939,13 @@ ul.social-buttons li a:active {
     height:300px;
 }
 
+.born-year,
+.country,
+.appellation,
+.ref-links {
+    text-align: center;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #fed136;
