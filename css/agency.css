@@ -746,6 +746,12 @@ section#celebrity{
     background-repeat: no-repeat;
 }
 
+/*updated by pan*/
+section#home {
+    padding-top: 100px;
+}
+
+
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
