@@ -761,7 +761,8 @@ section#celebrity{
 }
 
 /*updated by pan*/
-section#home {
+section#home,
+section#celebrity {
     padding-top: 100px;
 }
 
