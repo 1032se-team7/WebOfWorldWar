@@ -457,6 +457,20 @@ div.celebrity-item-10 {
     color: #fff;
 }
 
+/*updated by pan*/
+div.core-obj a img {
+    opacity: 0.8;
+}
+
+div.core-obj a img:hover {
+    opacity: 1;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    transition: all ease 0.5s;    
+}
+
+
 #celebrity .celebrity-item .celebrity-link .celebrity-hover .celebrity-hover-content i {
     margin-top: -12px;
 }
@@ -739,6 +753,20 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#home,
+section#celebrity{
+    background-image: url(http://i.imgur.com/au0vr1Y.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*updated by pan*/
+section#home,
+section#celebrity {
+    padding-top: 100px;
+}
+
+
 section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
@@ -857,11 +885,11 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 50px 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    /*text-align: center;*/
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -871,15 +899,16 @@ ul.social-buttons li a:active {
     /*written by Aaron Tsai*/
     text-align: center;
     margin-bottom: 15px;
+    margin-top:0px;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
-    margin-bottom: 30px;
-}
+/*.portfolio-modal .modal-content p {*/
+/*    margin-bottom: 30px;*/
+/*}*/
 
 .portfolio-modal .modal-content p.item-intro {
-    margin: 20px 0 30px;
+    margin:0px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-style: italic;
@@ -932,6 +961,17 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+
+.modal-body img {
+    height:300px;
+}
+
+.born-year,
+.country,
+.appellation,
+.ref-links {
+    text-align: center;
 }
 
 ::-moz-selection {
