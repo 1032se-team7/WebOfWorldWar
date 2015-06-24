@@ -29,9 +29,9 @@ $('label.category-reason').click(function(e){
   e.preventDefault();
     $('li.category-reason').each(function(entry) {
       $(this).toggle(1000);
-
     });
 });
+
 
 $('label.category-crisis').click(function(e){
     e.preventDefault();

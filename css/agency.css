@@ -354,19 +354,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-.celebrity-map {
+.celebrity-map, .home-map {
     position:relative;
-    /*background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_Europe_alliances_1914-en.svg/800px-Map_Europe_alliances_1914-en.svg.png)*/
-    /*no-repeat;*/
-    /*background-size: cover;*/
-    /*background-position: center;*/
+    /*background: url(http://www.imgbase.info/images/safe-wallpapers/military/world_war_1/37231_world_war_1.jpg);
+    no-repeat;
+    background-size: cover;
+    background-position: center;*/
 }
 .europe-map img {
     width:100%;
 }
 
 div.celebrity-item {
-    width:8%;  
+    width:8%;
 }
 
 div.celebrity-item-1 {
